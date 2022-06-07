@@ -1,5 +1,10 @@
-# kinesis
+# Kinesis
 
+## Kmonad
+
+* https://github.com/kmonad/kmonad
+
+## Kinesis controler:
 My current layout for the kinesis advantage. Inspiration was taken from the sources down below
 
 Useful links:
